@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="assets/header.png" alt="naseemali925" width="100%" height="90%"/> 
+<img src="https://raw.githubusercontent.com/naseemali925/naseemali925/master/assets/header.png" alt="naseemali925" width="100%" height="90%"/> 
 
 <!-- <h1 align="center">Hi 👋, I'm Naseem</h1> -->
 <h3 align="center">I'm a passionate software developer. I like experimenting with new technologies, building small projects, and spending time learning System Design. ✨</h3>
@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 </p>
 </p>
 
-<img src="assets/header_line.png" alt="naseemali925" width="100%"/> 
+<img src="https://raw.githubusercontent.com/naseemali925/naseemali925/master/assets/header_line.png" alt="naseemali925" width="100%"/> 
