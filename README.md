@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/naseemali925/naseemali925/master/assets/header.png" alt="naseemali925" width="100%" height="90%"/> 
+<!-- <img src="https://raw.githubusercontent.com/naseemali925/naseemali925/master/assets/header.png" alt="naseemali925" width="100%" height="90%"/>  -->
 
-<!-- <h1 align="center">Hi 👋, I'm Naseem</h1> -->
+<img src="https://raw.githubusercontent.com/naseemali925/naseemali925/master/assets/header_line.png" alt="naseemali925" width="100%"/>
+
+<h1 align="center">Hi 👋, I'm Naseem</h1>
 <h3 align="center">I'm a passionate software developer. I like experimenting with new technologies, building small projects, and spending time learning System Design. ✨</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naseemali925" alt="naseemali925" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=naseemali925&show_icons=true" alt="naseemali925" /> 
