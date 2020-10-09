@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/naseemali925](https://github.com/naseemali925)
 
-- 📝 I regularly write articles on [http://naseemali.me/blog/](http://naseemali.me/blog/)
+- 📝 I sometimes write articles on [http://naseemali.me/blog/](http://naseemali.me/blog/)
 
 - 📫 How to reach me **naseem.ali.925@gmail.com**
 
