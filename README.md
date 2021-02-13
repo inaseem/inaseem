@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naseemali925" alt="naseemali925" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=naseemali925&show_icons=true" alt="naseemali925" /> 
 
+- 💻 Recent work available at [https://naseemali.gitlab.io/forms](https://naseemali.gitlab.io/forms)
+
 - 👨‍💻 All of my projects are available at [https://github.com/naseemali925](https://github.com/naseemali925)
 
 - 📝 I sometimes write articles on [http://naseemali.me/blog/](http://naseemali.me/blog/)
