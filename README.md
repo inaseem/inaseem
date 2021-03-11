@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <!--
-**naseemali925/naseemali925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**inaseem/inaseem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <img src="https://raw.githubusercontent.com/naseemali925/naseemali925/master/assets/header.png" alt="naseemali925" width="100%" height="90%"/>  -->
+<!-- <img src="https://raw.githubusercontent.com/naseemali925/naseemali925/master/assets/header.png" alt="inaseem" width="100%" height="90%"/>  -->
 
-<img src="https://raw.githubusercontent.com/naseemali925/naseemali925/master/assets/header_line.png" alt="naseemali925" width="100%"/>
+<img src="https://raw.githubusercontent.com/inaseem/inaseem/master/assets/header_line.png" alt="inaseem" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Naseem</h1>
 <h3 align="center">I'm a passionate software developer. I like experimenting with new technologies, building small projects, and spending time learning System Design. ✨</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naseemali925" alt="naseemali925" /> </p>
-<img src="https://github-readme-stats.vercel.app/api?username=naseemali925&show_icons=true" alt="naseemali925" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=inaseem" alt="naseemali925" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=inaseem&show_icons=true" alt="naseemali925" />
 
 - 💻 Recent work available at [https://naseemali.gitlab.io/forms](https://naseemali.gitlab.io/forms)
 
-- 👨‍💻 All of my projects are available at [https://github.com/naseemali925](https://github.com/naseemali925)
+- 👨‍💻 All of my projects are available at [https://github.com/inaseem](https://github.com/inaseem)
 
 - 📝 I sometimes write articles on [http://naseemali.me/blog/](http://naseemali.me/blog/)
 
@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 </p>
 </p>
 
-<img src="https://raw.githubusercontent.com/naseemali925/naseemali925/master/assets/header_line.png" alt="naseemali925" width="100%"/> 
+<img src="https://raw.githubusercontent.com/inaseem/inaseem/master/assets/header_line.png" alt="inaseem" width="100%"/>
