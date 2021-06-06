@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/inaseem](https://github.com/inaseem)
 
-- 📝 I sometimes write articles on [http://naseemali.me/blog/](http://naseemali.me/blog/)
+- 📝 I sometimes write articles on [http://naseemali.me/blog/](http://naseemali.me/blog/)(Inactive for now)
 
-- 📫 How to reach me **naseem.ali.925@gmail.com**
+- 📫 How to reach me **inaseem@protonmail.com**
 
 - ⚡ Fun fact **I prefer tabs(size 2) over spaces**
 
