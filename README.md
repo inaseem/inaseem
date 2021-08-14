@@ -19,16 +19,14 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/inaseem/inaseem/master/assets/header_line.png" alt="inaseem" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm Naseem</h1>
-<h3 align="center">I'm a passionate software developer. I like experimenting with new technologies, building small projects, and spending time learning System Design. ✨</h3>
+<h1>Hi 👋, I'm Naseem</h1>
+<h3>I love to do web design. I like experimenting with new technologies, converting designs to websites, building small projects, and spending time learning System Design. ✨</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inaseem" alt="naseemali925" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=inaseem&show_icons=true" alt="naseemali925" />
 
 - 💻 Recent work available at [https://naseemali.gitlab.io/forms](https://naseemali.gitlab.io/forms)
 
 - 👨‍💻 All of my projects are available at [https://github.com/inaseem](https://github.com/inaseem)
-
-- 📝 I sometimes write articles on [http://naseemali.me/blog/](http://naseemali.me/blog/)(Inactive for now)
 
 - 📫 How to reach me **inaseem@protonmail.com**
 
