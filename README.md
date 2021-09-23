@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/inaseem/inaseem/master/assets/header_line.png" alt="inaseem" width="100%"/>
 
-<h1>Hi 👋, I'm Naseem</h1>
-<h3>I love to do web design. I like experimenting with new technologies, converting designs to websites, building small projects, and spending time learning System Design. ✨</h3>
+Hi 👋,
+
+I'm Naseem. I love to do web design. I like experimenting with new technologies, converting designs to websites, building small projects, and spending time learning System Design.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inaseem" alt="naseemali925" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=inaseem&show_icons=true" alt="naseemali925" />
 
