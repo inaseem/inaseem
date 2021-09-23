@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Hi 👋,
 
-I'm Naseem. I love to do web design. I like experimenting with new technologies, converting designs to websites, building small projects, and spending time learning System Design.
+I'm Naseem. I love to do web design. I like experimenting with new technologies,<br/>converting designs to websites, building small projects, and spending time learning System Design.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inaseem" alt="naseemali925" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=inaseem&show_icons=true" alt="naseemali925" />
 
