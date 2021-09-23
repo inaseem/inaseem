@@ -25,9 +25,13 @@ I'm Naseem. I love to do web design. I like experimenting with new technologies,
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inaseem" alt="naseemali925" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=inaseem&show_icons=true" alt="naseemali925" />
 
-- 💻 Recent work available at [https://naseemali.gitlab.io/forms](https://naseemali.gitlab.io/forms)
+- 💻 Recent work available at 
+  - [https://naseemali.gitlab.io/riju](https://naseemali.gitlab.io/riju)
+  - [https://naseemali.gitlab.io/forms](https://naseemali.gitlab.io/forms) 
 
-- 👨‍💻 All of my projects are available at [https://github.com/inaseem](https://github.com/inaseem)
+- 👨‍💻 All of my projects are available at
+  -  [https://gitlab.com/naseemali](https://gitlab.com/naseemali)
+  -  [https://github.com/inaseem](https://github.com/inaseem)
 
 - 📫 How to reach me **inaseem@protonmail.com**
 
