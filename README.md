@@ -27,6 +27,7 @@ I'm Naseem. I love to do web design. I like experimenting with new technologies,
 
 - 💻 Recent work available at 
   - [https://inaseem.gitlab.io/riju](https://inaseem.gitlab.io/riju)
+  - [https://inaseem.gitlab.io/calndr](https://inaseem.gitlab.io/calndr)
   - [https://inaseem.gitlab.io/forms](https://inaseem.gitlab.io/forms) 
 
 - 👨‍💻 All of my projects are available at
