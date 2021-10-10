@@ -26,11 +26,11 @@ I'm Naseem. I love to do web design. I like experimenting with new technologies,
 <img src="https://github-readme-stats.vercel.app/api?username=inaseem&show_icons=true" alt="inaseem" />
 
 - 💻 Recent work available at 
-  - [https://naseemali.gitlab.io/riju](https://naseemali.gitlab.io/riju)
-  - [https://naseemali.gitlab.io/forms](https://naseemali.gitlab.io/forms) 
+  - [https://inaseem.gitlab.io/riju](https://inaseem.gitlab.io/riju)
+  - [https://inaseem.gitlab.io/forms](https://inaseem.gitlab.io/forms) 
 
 - 👨‍💻 All of my projects are available at
-  -  [https://gitlab.com/naseemali](https://gitlab.com/naseemali)
+  -  [https://gitlab.com/inaseem](https://gitlab.com/inaseem)
   -  [https://github.com/inaseem](https://github.com/inaseem)
 
 - 📫 How to reach me **inaseem@protonmail.com**
