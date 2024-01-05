@@ -29,7 +29,7 @@ I'm Naseem. I love to do web design. I like experimenting with new technologies,
   - [https://inaseem.gitlab.io/forms](https://inaseem.gitlab.io/forms) 
 
 - 👨‍💻 All of my projects are available at
-  -  [https://gitlab.com/inaseem](https://gitlab.com/inaseem)
+  -  [https://gitlab.com/users/inaseem/projects](https://gitlab.com/users/inaseem/projects)
   -  [https://github.com/inaseem](https://github.com/inaseem)
 
 - 📫 How to reach me **inaseem@protonmail.com**
