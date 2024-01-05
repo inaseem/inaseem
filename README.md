@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://raw.githubusercontent.com/naseemali925/naseemali925/master/assets/header.png" alt="inaseem" width="100%" height="90%"/>  -->
 
-<img src="https://raw.githubusercontent.com/inaseem/inaseem/master/assets/header_line.png" alt="inaseem" width="100%"/>
 
 Hi 👋,
 
@@ -49,4 +48,3 @@ I'm Naseem. I love to do web design. I like experimenting with new technologies,
 </p>
 </p>
 
-<img src="https://raw.githubusercontent.com/inaseem/inaseem/master/assets/header_line.png" alt="inaseem" width="100%"/>
