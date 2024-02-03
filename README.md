@@ -23,7 +23,8 @@ Hi 👋,
 I'm Naseem. I love to do web design. I like experimenting with new technologies,<br/>converting designs to websites, building small projects, and spending time learning System Design.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inaseem" alt="inaseem" /> </p>
 
-- 💻 Recent work available at 
+- 💻 Recent work available at
+  - [https://inaseem.github.io/hews/](https://inaseem.github.io/hews/)
   - [https://inaseem.gitlab.io/riju](https://inaseem.gitlab.io/riju)
   - [https://inaseem.gitlab.io/calndr](https://inaseem.gitlab.io/calndr)
   - [https://inaseem.gitlab.io/forms](https://inaseem.gitlab.io/forms) 
