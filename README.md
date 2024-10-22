@@ -24,6 +24,7 @@ I'm Naseem. I love to do web design. I like experimenting with new technologies,
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inaseem" alt="inaseem" /> </p>
 
 - 💻 Recent work available at
+  - [https://inaseem.github.io/the-dsl/](https://inaseem.github.io/the-dsl/)
   - [https://inaseem.github.io/hews/](https://inaseem.github.io/hews/)
   - [https://inaseem.gitlab.io/riju](https://inaseem.gitlab.io/riju)
   - [https://inaseem.gitlab.io/calndr](https://inaseem.gitlab.io/calndr)
@@ -44,8 +45,6 @@ I'm Naseem. I love to do web design. I like experimenting with new technologies,
 <p align="center">
 <a href="https://twitter.com/thisismenaseem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thisismenaseem" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/thisismenaseem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thisismenaseem" height="20" width="20" /></a>
-<a href="https://fb.com/naseem.ali.1466" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="naseem.ali.1466" height="20" width="20" /></a>
-<a href="https://instagram.com/naseem.ali.925" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="naseem.ali.925" height="20" width="20" /></a>
 </p>
 </p>
 
